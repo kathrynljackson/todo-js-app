@@ -1,6 +1,7 @@
 # To Do List
 
-![gif of how adding and deleting tasks works](https://media.giphy.com/media/sF41xSFZdRyPYZQfxq/giphy.gif)
+https://user-images.githubusercontent.com/65988644/121735997-edfb4400-cac4-11eb-9819-9d9a416a5766.mov
+
 
 ### Practiced Skills:
 - implementing local storage
